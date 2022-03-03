@@ -26,7 +26,6 @@ double SimpleMonteCarlo(double Expiry,
 	}
 }
 
-
 int main() {
 
 }
